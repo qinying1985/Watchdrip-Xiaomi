@@ -11,3 +11,6 @@ the application.
 3.- Download latest mi-fitness modified apk from @m0tral telegram https://t.me/mi_watch_int (thanks to @m0tral for his great work) and synchorinze with your band.
 4.- go to mi-fitness and install the application "Xiaomi watchdrip", and install "Watchdrip" watchface... from global section.
 5.- Now all is working, enjoy it.
+
+You can contribute
+https://paypal.me/nimrod100mavh?country.x=ES&locale.x=es_ES
