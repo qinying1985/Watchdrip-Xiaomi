@@ -12,5 +12,4 @@ the application. <br>
 4.- go to mi-fitness and install the application "Xiaomi watchdrip", and install "Watchdrip" watchface... from global section.<br>
 5.- Now all is working, enjoy it.<br>
 <br>
-You can contribute<br>
-https://paypal.me/nimrod100mavh?country.x=ES&locale.x=es_ES<br>
+
