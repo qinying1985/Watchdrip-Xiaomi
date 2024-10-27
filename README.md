@@ -19,7 +19,7 @@ To make it works follow next steps:<br>
     <li>
     Configure watchdrip+ enabling service and web server...
         <p align="center">
-            <img src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/d9553dbabf74f0ea9aac00dd62cf7ff547b5beea/.github/WatchDrip%2B.jpg" alt="Config watchdrip+"/>
+            <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/d9553dbabf74f0ea9aac00dd62cf7ff547b5beea/.github/WatchDrip%2B.jpg" alt="Config watchdrip+"/>
         </p>
     </li>
     <li>
@@ -30,16 +30,16 @@ To make it works follow next steps:<br>
 <li>
     Download latest release from WathdripXiaomi.apk and install at your android device, configure battery restrictions to "no restrictions" to let it works continously... open it, if all is OK last glucose value appears at app main screen...
     <p align="center">
-        <img src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/Settings.jpg" alt="Apk settings"/>
-        <img src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/475bbe57a2e085a11b51ca1ebc715caaf80fa778/.github/WatchdripXiaomi.jpg" alt="Apk screenshot"/>
+        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/Settings.jpg" alt="Apk settings"/>
+        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/475bbe57a2e085a11b51ca1ebc715caaf80fa778/.github/WatchdripXiaomi.jpg" alt="Apk screenshot"/>
     </p>
 </li>
 <li>
     At MiFitness install the application "Xiaomi Watchdrip" and install "Watchdrip+ Graph" watchface or "watchdrip+ Big" watchface from global section.
     <p align="center">
-        <img src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-app.jpg" alt="Install mini-app"/>
-        <img src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-WFBig.jpg" alt="Watchface Big"/>
-        <img src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-WFGraph.jpg" alt="Watchface Graph"/>
+        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-app.jpg" alt="Install mini-app"/>
+        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-WFBig.jpg" alt="Watchface Big"/>
+        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-WFGraph.jpg" alt="Watchface Graph"/>
     </p>
 
 </li>
