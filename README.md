@@ -26,6 +26,7 @@ To make it works follow next steps:<br>
     Install latest mi-fitness modified apk from @m0tral group in telegram <a href="https://t.me/mi_watch_int">MiFitness mod</a> (thanks to @m0tral for his great work) and synchronize with your band (uninstall official mifitness if necessary).
     </li>
 </ul>
+    <br>
 </li>
 <li>
     Download latest release from WathdripXiaomi.apk and install at your android device, configure battery restrictions to "no restrictions" to let it works continously... open it, if all is OK last glucose value appears at app main screen...
