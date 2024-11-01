@@ -36,7 +36,7 @@ To make it works follow next steps:<br>
     </p>
 </li>
 <li>
-    At MiFitness install the application "Xiaomi Watchdrip" and install "Watchdrip+ Graph" watchface or "watchdrip+ Big" watchface from global section.
+    At MiFitness install the application "Xiaomi Watchdrip" and install "Watchdrip+ Graph" watchface or "watchdrip+ Big" watchface from english section.
     <p align="center">
         <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-app.jpg" alt="Install mini-app"/>
         <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-WFBig.jpg" alt="Watchface Big"/>
