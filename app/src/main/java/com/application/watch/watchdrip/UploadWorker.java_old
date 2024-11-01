@@ -1,0 +1,30 @@
+package com.application.watch.watchdrip;
+
+import android.content.Context;
+import android.content.Intent;
+import android.os.Build;
+
+import androidx.work.Worker;
+import androidx.work.WorkerParameters;
+
+public class UploadWorker extends Worker {
+    Context contextWorker=null;
+    public UploadWorker(Context context, WorkerParameters workerParams) {
+        super(context, workerParams);
+	    contextWorker=context;
+    }
+
+    @Override
+    public Result doWork() {
+
+        // Create Intent
+        Intent serviceIntent = new Intent(contextWorker, MyService.class);
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            contextWorker.startForegroundService(serviceIntent);
+        } else {
+            contextWorker.startService(serviceIntent);
+        }
+        return Result.success();
+    }
+}
