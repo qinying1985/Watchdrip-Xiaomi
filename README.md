@@ -29,20 +29,19 @@ To make it works follow next steps:<br>
     <br>
 </li>
 <li>
-    Download latest release from WathdripXiaomi.apk and install at your android device, configure battery restrictions to "no restrictions" to let it works continously... open it, if all is OK last glucose value appears at app main screen...
-    <p align="center">
-        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/Settings.jpg" alt="Apk settings"/>
-        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/475bbe57a2e085a11b51ca1ebc715caaf80fa778/.github/WatchdripXiaomi.jpg" alt="Apk screenshot"/>
-    </p>
-</li>
-<li>
     At MiFitness install the application "Xiaomi Watchdrip" and install "Watchdrip+ Graph" watchface or "watchdrip+ Big" watchface from english section.
     <p align="center">
         <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-app.jpg" alt="Install mini-app"/>
         <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-WFBig.jpg" alt="Watchface Big"/>
         <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/MiFitness-WFGraph.jpg" alt="Watchface Graph"/>
     </p>
-
+</li>
+<li>
+    Finally download latest release from WathdripXiaomi.apk and install at your android device, configure battery restrictions to "no restrictions" to let it works continously... open it, if all is OK last glucose value appears at app main screen...
+    <p align="center">
+        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/a14aeecfd6e98916c6155c3fc89f2ba2ffce87ca/.github/Settings.jpg" alt="Apk settings"/>
+        <img width=200px src="https://github.com/miguelavh/Watchdrip-Xiaomi/blob/475bbe57a2e085a11b51ca1ebc715caaf80fa778/.github/WatchdripXiaomi.jpg" alt="Apk screenshot"/>
+    </p>
 </li>
 <li>
     Now all is working, enjoy it.
