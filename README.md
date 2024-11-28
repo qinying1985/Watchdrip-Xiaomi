@@ -2,7 +2,7 @@
 <br>
 Android app to synchronize blood glucose data between watchdrip+ and xiaomi wearables devices <b>xiaomi smartband 8 pro</b> and <b>xiaomi smartband 9</b>.<br>
 <br>
-To make it works follow next steps:<br>
+To make it works follow next steps for watchdrip before v0.4.0:<br>
 <br>
 <ul>
 <li> Pre-requisites:
@@ -47,4 +47,9 @@ To make it works follow next steps:<br>
     Now all is working, enjoy it.
 </li>
 </ul>
+<br>
+<h2>New version</h2>
+To make it works for watchdrip from v0.4.0 or newer follow instructions at <a href="https://bigdigital.home.blog/2024/11/28/xiaomi-89-support">watchdrip+ blog</a>
+
+
 
