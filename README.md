@@ -7,6 +7,7 @@ To make it works for watchdrip v0.4.0 or newer follow instructions at <a href="h
 <br>
 <h2>Old version (watchdrip+ app and watchdrip-xiaomi app required)</h2>
 To make it works follow next steps for watchdrip before v0.4.0:<br>
+
 <br>
 <ul>
 <li> Pre-requisites:
